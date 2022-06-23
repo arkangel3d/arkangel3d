@@ -13,6 +13,6 @@ Soy Desarrollador Full Stack
 - :information_source: LinkedIn www.linkedin.com/in/arkangelcontreraslara
 
 <h2>Mi stack <h2>
- [![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,mongodb,postgres,react,redux,html,css,)](https://skillicons.dev)
 
+ [![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,mongodb,postgres,react,redux,html,css)](https://skillicons.dev)
 
