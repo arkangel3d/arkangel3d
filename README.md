@@ -1,16 +1,17 @@
 ### Hi there 👋
 
 <!--
-**arkangel3d/arkangel3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hola mi nombre es Arkangel Daniel
+Soy Desarrollador Full Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- :earth_americas: Vivo en Medellin Colombia
+- 🌱 Me encuentro aprendiendo TypeScript
+- 💬 Podemos conversar sobre todo el stack JavaScript
+- 📫 Puedes contactarme arkangelcontreras@icloud.com
+- :briefcase: Realice un eCommerce como proyecto final en grupo, para el bootcamp HENRY
+
+ Mi stack 
+ [![ Mi stack ](https://skillicons.dev/icons?i=js,nodejs,express,mongodb,postgres,react,redux,html,css,)](https://skillicons.dev)
 -->
+
